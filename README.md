@@ -23,11 +23,11 @@ Cebu City, Philippines · Remote-friendly · 5 years in the industry
 
 ## About
 
-I'm a fullstack developer based in Cebu City, Philippines, and most of my work happens on the back end. At **Glophics Web Design and Advertising** I build and maintain production e-commerce systems — Laravel APIs behind Nuxt.js storefronts, payment gateway and shipping-courier integrations for international orders, query and performance work on MySQL, and the Jenkins pipelines that get all of it deployed.
+I'm a fullstack developer based in Cebu City, Philippines, with five years in the industry — and most of my work happens on the back end. Day to day that means production e-commerce systems: Laravel APIs behind Nuxt.js storefronts, payment gateway and shipping-courier integrations for international orders, query and performance work on MySQL, and the Jenkins pipelines that get all of it deployed.
 
-Alongside that I've taught part-time at **Cordova Public College** since 2022, my own alma mater, where I design project-based curricula and walk students through builds that resemble real work rather than exercises. Teaching has quietly made me a better engineer — explaining a decision to someone learning it is the fastest way to find out whether I actually understood it.
+Since 2022 I've also taught web development part-time at the college I graduated from, designing project-based curricula and walking students through builds that resemble real work rather than exercises. Teaching has quietly made me a better engineer — explaining a decision to someone learning it is the fastest way to find out whether I actually understood it.
 
-I also take on a small number of freelance builds: installable PWAs, point-of-sale systems, and modernizing legacy sites. AI tooling is part of my daily workflow, used to move faster without losing an understanding of the code I ship. I'd rather improve something steadily than wait for it to be perfect, which is roughly how I approach software and my own learning.
+The rest of my time goes to a small number of freelance builds: installable PWAs, point-of-sale systems, and modernizing legacy sites. AI tooling is part of my daily workflow, used to move faster without losing an understanding of the code I ship. I'd rather improve something steadily than wait for it to be perfect, which is roughly how I approach software and my own learning.
 
 ### Experience
 
@@ -192,8 +192,8 @@ Installable PWAs I build for local retail clients — real-time sync through Fir
 
 ## Currently
 
-- Building Laravel and Nuxt.js e-commerce systems, payment integrations and shipping automation at Glophics
-- Teaching web development part-time at Cordova Public College
+- Building Laravel and Nuxt.js e-commerce systems, payment integrations and shipping automation
+- Teaching web development part-time
 - Picking up Go and Python for backend services and small tooling
 - Folding AI tooling into my day-to-day development workflow
 - Taking on a limited number of freelance builds
